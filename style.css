@@ -44,6 +44,15 @@ a:hover {
     padding-right: 0;
 }
 
+.bloc .container h2 {
+    color: #575757;
+}
+
+.bloc .row {
+    display: flex;
+    justify-content: center;
+}
+
 .bloc-lg {
     padding: 100px 50px;
 }
