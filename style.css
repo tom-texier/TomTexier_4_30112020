@@ -1053,3 +1053,9 @@ h4 {
         text-align: center;
     }
 }
+
+/* MODIFICATIONS */
+
+.citation {
+    font-style: italic;
+}
