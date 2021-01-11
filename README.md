@@ -2,7 +2,7 @@
 
 # [Projet 4 : Optimisez un site web existant](https://openclassrooms.com/fr/paths/185-developpeur-web#path-tabs)
 
-## [Parcours Développeur Web](https://openclassrooms.com/fr/paths/185-developpeur-web)
+### [*Parcours Développeur Web*](https://openclassrooms.com/fr/paths/185-developpeur-web)
 
 Pour ce projet, je devais améliorer le site web (fictif) d'une agence de webdesign lyonnaise.
 
